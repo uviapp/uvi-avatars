@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "avatars": [
-    { "id": "avatar-1", "name": "Aria", "vrm": "avatars/avatar-1/model.vrm", "thumbnail": "avatars/avatar-1/preview.png" },
-    { "id": "avatar-2", "name": "Yuna", "vrm": "avatars/avatar-2/model.vrm", "thumbnail": "avatars/avatar-2/preview.png" },
-    { "id": "avatar-3", "name": "Misaki", "vrm": "avatars/avatar-3/model.vrm", "thumbnail": "avatars/avatar-3/preview.png" }
+    { "id": "0cbce7b9-5ebb-463e-9a2a-8eb819512e39", "name": "Aria", "vrm": "avatars/0cbce7b9-5ebb-463e-9a2a-8eb819512e39/model.vrm", "thumbnail": "avatars/0cbce7b9-5ebb-463e-9a2a-8eb819512e39/preview.png" },
+    { "id": "8fac7b7f-7e06-4210-b395-1bdca3cddb17", "name": "Yuna", "vrm": "avatars/8fac7b7f-7e06-4210-b395-1bdca3cddb17/model.vrm", "thumbnail": "avatars/8fac7b7f-7e06-4210-b395-1bdca3cddb17/preview.png" },
+    { "id": "29920ad0-5f2c-45d9-a718-f42afbdd62f3", "name": "Misaki", "vrm": "avatars/29920ad0-5f2c-45d9-a718-f42afbdd62f3/model.vrm", "thumbnail": "avatars/29920ad0-5f2c-45d9-a718-f42afbdd62f3/preview.png" }
   ]
 }
