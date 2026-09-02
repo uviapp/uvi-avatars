@@ -1,8 +1,290 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "avatars": [
-    { "id": "0cbce7b9-5ebb-463e-9a2a-8eb819512e39", "name": "Aria", "vrm": "avatars/0cbce7b9-5ebb-463e-9a2a-8eb819512e39/model.vrm", "thumbnail": "avatars/0cbce7b9-5ebb-463e-9a2a-8eb819512e39/preview.png" },
-    { "id": "8fac7b7f-7e06-4210-b395-1bdca3cddb17", "name": "Yuna", "vrm": "avatars/8fac7b7f-7e06-4210-b395-1bdca3cddb17/model.vrm", "thumbnail": "avatars/8fac7b7f-7e06-4210-b395-1bdca3cddb17/preview.png" },
-    { "id": "29920ad0-5f2c-45d9-a718-f42afbdd62f3", "name": "Misaki", "vrm": "avatars/29920ad0-5f2c-45d9-a718-f42afbdd62f3/model.vrm", "thumbnail": "avatars/29920ad0-5f2c-45d9-a718-f42afbdd62f3/preview.png" }
+    {
+      "id": "aca4aafe-4801-499a-92c9-50b8ff51ec9e",
+      "name": "Shino",
+      "vrm": "avatars/aca4aafe-4801-499a-92c9-50b8ff51ec9e/model.vrm",
+      "thumbnail": "avatars/aca4aafe-4801-499a-92c9-50b8ff51ec9e/preview.png",
+      "author": "VRoid Project",
+      "authorUrl": "https://hub.vroid.com/en/users/36144806",
+      "source": "https://hub.vroid.com/en/characters/5860098757548846785/models/6567311261748429976",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "千駄ヶ谷篠",
+        "author": "VRoidプロジェクト",
+        "contact": null,
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "d8ccc1a0-9720-4d9e-8a7c-3ff40eaa0315",
+      "name": "Vita",
+      "vrm": "avatars/d8ccc1a0-9720-4d9e-8a7c-3ff40eaa0315/model.vrm",
+      "thumbnail": "avatars/d8ccc1a0-9720-4d9e-8a7c-3ff40eaa0315/preview.png",
+      "author": "VRoid Project",
+      "authorUrl": "https://hub.vroid.com/en/users/36144806",
+      "source": "https://hub.vroid.com/en/characters/6193066630030526355/models/3525604181073039892",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "ヴィータ",
+        "author": "VRoidプロジェクト",
+        "contact": null,
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "109367e0-2801-48d5-bef6-b89d49935773",
+      "name": "Mio",
+      "vrm": "avatars/109367e0-2801-48d5-bef6-b89d49935773/model.vrm",
+      "thumbnail": "avatars/109367e0-2801-48d5-bef6-b89d49935773/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/36144806",
+      "source": "https://hub.vroid.com/en/characters/7939147878897061040/models/2292219474373673889",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "AvatarSample_B",
+        "author": "VRoid Project",
+        "contact": "https://www.pixiv.net/support.php?mode=select_vroid",
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "8fc01a10-b837-444b-830a-ad52ee0ffeb1",
+      "name": "Keina",
+      "vrm": "avatars/8fc01a10-b837-444b-830a-ad52ee0ffeb1/model.vrm",
+      "thumbnail": "avatars/8fc01a10-b837-444b-830a-ad52ee0ffeb1/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/109408615",
+      "source": "https://hub.vroid.com/en/characters/748433463672506882/models/3598788278006457385",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "keina",
+        "author": "seychohan",
+        "contact": null,
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "c53b4615-654b-4d8e-9b66-ee4bd833fa56",
+      "name": "Saba",
+      "vrm": "avatars/c53b4615-654b-4d8e-9b66-ee4bd833fa56/model.vrm",
+      "thumbnail": "avatars/c53b4615-654b-4d8e-9b66-ee4bd833fa56/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/68492133",
+      "source": "https://hub.vroid.com/en/characters/8524332363497057331/models/524490645277532236",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "SABA_0.1",
+        "author": "0caxapok",
+        "contact": "Twich:  0caxapok",
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=necessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "required",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "0cbce7b9-5ebb-463e-9a2a-8eb819512e39",
+      "name": "Aria",
+      "vrm": "avatars/0cbce7b9-5ebb-463e-9a2a-8eb819512e39/model.vrm",
+      "thumbnail": "avatars/0cbce7b9-5ebb-463e-9a2a-8eb819512e39/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/110934782",
+      "source": "https://hub.vroid.com/en/characters/1068688385771703078/models/6133742810208915407",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "FREE 2",
+        "author": "AnimeFreak",
+        "contact": null,
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=disallow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "ec06a8da-f2bb-4841-ae8c-482c391af63a",
+      "name": "Kana",
+      "vrm": "avatars/ec06a8da-f2bb-4841-ae8c-482c391af63a/model.vrm",
+      "thumbnail": "avatars/ec06a8da-f2bb-4841-ae8c-482c391af63a/preview.png",
+      "author": "VRoid Project",
+      "authorUrl": "https://hub.vroid.com/en/users/36144806",
+      "source": "https://hub.vroid.com/en/characters/675572020956181239/models/5306079829291212184",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": null,
+        "author": null,
+        "contact": null,
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "d32469dc-d736-4351-a995-42671e473653",
+      "name": "Luna",
+      "vrm": "avatars/d32469dc-d736-4351-a995-42671e473653/model.vrm",
+      "thumbnail": "avatars/d32469dc-d736-4351-a995-42671e473653/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/122911298",
+      "source": "https://hub.vroid.com/en/characters/6065780313856090761/models/2077709509642316004",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "Luna",
+        "author": "NOFAL",
+        "contact": "https://hub.vroid.com/en/users/122911298",
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=necessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=disallow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "required",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "f1785101-fee4-4368-bcae-4570b4c45f06",
+      "name": "Epsilon",
+      "vrm": "avatars/f1785101-fee4-4368-bcae-4570b4c45f06/model.vrm",
+      "thumbnail": "avatars/f1785101-fee4-4368-bcae-4570b4c45f06/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/3070668",
+      "source": "https://hub.vroid.com/en/characters/2266699853455062049/models/3798949804770552977",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "EpsilonNought",
+        "author": "keiichiisozaki",
+        "contact": "https://twitter.com/keiichiisozaki",
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "f536a7a5-d7c0-458a-a6e6-ca5140bdbe54",
+      "name": "Shibu",
+      "vrm": "avatars/f536a7a5-d7c0-458a-a6e6-ca5140bdbe54/model.vrm",
+      "thumbnail": "avatars/f536a7a5-d7c0-458a-a6e6-ca5140bdbe54/preview.png",
+      "author": "VRoid Project",
+      "authorUrl": "https://hub.vroid.com/en/users/36144806",
+      "source": "https://hub.vroid.com/en/characters/675572020956181239/models/4479743608263344465",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "千駄ヶ谷渋",
+        "author": "VRoidプロジェクト",
+        "contact": null,
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "8fac7b7f-7e06-4210-b395-1bdca3cddb17",
+      "name": "Yuna",
+      "vrm": "avatars/8fac7b7f-7e06-4210-b395-1bdca3cddb17/model.vrm",
+      "thumbnail": "avatars/8fac7b7f-7e06-4210-b395-1bdca3cddb17/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/110934782",
+      "source": "https://hub.vroid.com/en/characters/1068688385771703078/models/4105584754657554915",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "FREE 5",
+        "author": "animefreak",
+        "contact": null,
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=disallow&version=1&violent_expression=disallow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "061bb2f6-38d0-4ee4-9999-bd701a4fa3bc",
+      "name": "Vivi",
+      "vrm": "avatars/061bb2f6-38d0-4ee4-9999-bd701a4fa3bc/model.vrm",
+      "thumbnail": "avatars/061bb2f6-38d0-4ee4-9999-bd701a4fa3bc/preview.png",
+      "author": "VRoid Project",
+      "authorUrl": "https://hub.vroid.com/en/users/36144806",
+      "source": "https://hub.vroid.com/en/characters/945152946522067123/models/1622417912888236740",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "ビビ",
+        "author": "VRoidプロジェクト",
+        "contact": null,
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "d7a944fb-f8ad-4fe9-a6cd-3643f0e40626",
+      "name": "Jane",
+      "vrm": "avatars/d7a944fb-f8ad-4fe9-a6cd-3643f0e40626/model.vrm",
+      "thumbnail": "avatars/d7a944fb-f8ad-4fe9-a6cd-3643f0e40626/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/36144806",
+      "source": "https://hub.vroid.com/en/characters/2843975675147313744/models/5644550979324015604",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "AvatarSample_A",
+        "author": "VRoid Project",
+        "contact": "https://www.pixiv.net/support.php?mode=select_vroid",
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    },
+    {
+      "id": "26e1fd37-3536-40f3-8dc8-4d71e0afc4a3",
+      "name": "John",
+      "vrm": "avatars/26e1fd37-3536-40f3-8dc8-4d71e0afc4a3/model.vrm",
+      "thumbnail": "avatars/26e1fd37-3536-40f3-8dc8-4d71e0afc4a3/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/users/36144806",
+      "source": "https://hub.vroid.com/en/characters/1248981995540129234/models/8640547963669442173",
+      "checkedAt": "2026-09-02",
+      "license": {
+        "specVersion": "0.x",
+        "title": "AvatarSample_C",
+        "author": "VRoid Project",
+        "contact": "https://www.pixiv.net/support.php?mode=select_vroid",
+        "licenseUrl": "https://hub.vroid.com/license?allowed_to_use_user=everyone&characterization_allowed_user=everyone&corporate_commercial_use=allow&credit=unnecessary&modification=allow&personal_commercial_use=profit&redistribution=allow&sexual_expression=allow&version=1&violent_expression=allow",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "unnecessary",
+        "commercial": "allow"
+      }
+    }
   ]
 }
