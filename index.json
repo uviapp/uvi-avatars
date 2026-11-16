@@ -2,6 +2,26 @@
   "schemaVersion": 2,
   "avatars": [
     {
+      "id": "31c25390-2d50-4aa0-a086-a47e008422cf",
+      "name": "Draconia Malfoy",
+      "vrm": "avatars/31c25390-2d50-4aa0-a086-a47e008422cf/model.vrm",
+      "thumbnail": "avatars/31c25390-2d50-4aa0-a086-a47e008422cf/preview.png",
+      "authorUrl": "https://hub.vroid.com/en/characters/5660781526122040816/models/2910455406567342808",
+      "source": "https://hub.vroid.com/en/characters/5660781526122040816/models/2910455406567342808",
+      "checkedAt": "2026-11-16",
+      "license": {
+        "specVersion": "0.x",
+        "title": "Draconia Malfoy",
+        "author": "CB一号机 (Kinsama) / xunbile / dobrozork",
+        "contact": null,
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "redistribution": "allow",
+        "modification": "allow",
+        "credit": "required",
+        "commercial": "allow"
+      }
+    },
+    {
       "id": "aca4aafe-4801-499a-92c9-50b8ff51ec9e",
       "name": "Shino",
       "vrm": "avatars/aca4aafe-4801-499a-92c9-50b8ff51ec9e/model.vrm",
